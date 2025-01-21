@@ -1,0 +1,49 @@
+# Tela de Login
+
+Este é um projeto simples de tela de login desenvolvido com HTML, CSS e JavaScript. O objetivo deste projeto é demonstrar uma interface básica de login com validação de e-mail e senha.
+
+## Pré-requisitos
+
+Antes de começar, você precisará ter o seguinte instalado em seu computador:
+
+- Um navegador da web (como Google Chrome, Firefox, etc.)
+- Um editor de texto (como Visual Studio Code, Sublime Text, etc.)
+
+## Estrutura do Projeto
+
+O projeto contém os seguintes arquivos:
+
+tela-de-login/ 
+    ├── index.html # O arquivo HTML principal 
+    ├── styles.css # O arquivo CSS para estilização 
+    └── script.js # O arquivo JavaScript para funcionalidade
+
+## Como Executar o Projeto Localmente
+
+Siga estas etapas para executar o projeto em sua máquina local:
+
+## 1. Clone o repositório (ou baixe os arquivos):
+   bash
+   git clone https://seu-repositorio-url.git
+   cd tela-de-login
+
+## 2. Abra o arquivo index.html:
+
+Você pode abrir o arquivo diretamente em seu navegador. Clique duas vezes no arquivo index.html ou arraste-o para a janela do navegador.
+
+## 3. Interaja com a Tela de Login:
+Insira um e-mail e uma senha. Para fins de teste, você pode usar:
+
+E-mail: usuario@exemplo.com
+Senha: senha123
+
+Clique no botão "Entrar" para ver a validação e o redirecionamento.
+
+## Contribuições
+Se você deseja contribuir para este projeto, sinta-se à vontade para abrir um pull request ou relatar problemas.
+
+## Licença
+Este projeto é de código aberto e pode ser utilizado livremente. Sinta-se à vontade para modificar e adaptar conforme necessário.
+
+## Contato
+Para perguntas ou sugestões, entre em contato com Alessandro Santos.
