@@ -24,7 +24,7 @@ Siga estas etapas para executar o projeto em sua máquina local:
 
 ## 1. Clone o repositório (ou baixe os arquivos):
    bash
-   git clone https://seu-repositorio-url.git
+   git clone https://github.com/eusantosdev/login-screen.git
    cd tela-de-login
 
 ## 2. Abra o arquivo index.html:
